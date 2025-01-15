@@ -1,0 +1,6 @@
+string = input("Write the word: ")
+print(len(string))
+string1 = string.upper()
+string2 = string.lower()
+print(string1)
+print(string2)
