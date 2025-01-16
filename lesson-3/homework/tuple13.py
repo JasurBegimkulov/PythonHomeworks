@@ -1,0 +1,5 @@
+a = (1,2,3,4)
+b = list(a)
+c = min(b)
+b.remove(c)
+print(min(tuple(b)))

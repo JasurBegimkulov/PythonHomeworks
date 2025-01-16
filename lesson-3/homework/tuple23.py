@@ -1,0 +1,5 @@
+a = (1,2,3)
+b = list(a)
+b.reverse()
+c = tuple(b)
+print(c)

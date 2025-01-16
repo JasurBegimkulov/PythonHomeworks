@@ -1,0 +1,5 @@
+a = (1,2,3,4)
+b = list(a)
+c = max(b)
+b.remove(c)
+print(max(tuple(b)))

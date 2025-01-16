@@ -1,0 +1,5 @@
+a = (1,2,3,4,5,1)
+b = list(a)
+b.remove(1)
+c = tuple(b)
+print(b)
