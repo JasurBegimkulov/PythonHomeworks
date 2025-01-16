@@ -1,0 +1,5 @@
+a = (12,34,66,55)
+b = list(a)
+b.sort()
+c = tuple(b)
+print(c == a)
