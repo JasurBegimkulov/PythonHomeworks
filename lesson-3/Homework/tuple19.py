@@ -1,5 +1,0 @@
-a = (13,12,14,18,13)
-b = list(a)
-b.remove(13)
-c = tuple(b)
-print(c)
