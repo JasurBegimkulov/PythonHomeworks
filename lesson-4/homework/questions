@@ -1,0 +1,7 @@
+2) We use break to exit the loop and we use continue to skip the part of the iteration.
+3)If you know the number of times you want to repeat something, you use for loop. While loop is used untill the condition is no lobger true.
+4)A nested loop means placing one loop inside another to make many levels of iteration. For example:
+
+for i in range(4):  # Outer loop
+    for j in range(3):  # Inner loop
+        print(f"Outer: {i}, Inner: {j}")
